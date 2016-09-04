@@ -16,6 +16,7 @@
   </ItemGroup>
   <ItemGroup>
     <Text Include="ReadMe.txt" />
+    <Text Include="算法描述文件.txt" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
